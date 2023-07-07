@@ -1,5 +1,6 @@
 /// @description 
 // startando a velocidade da bola quando o jogo iniciar
+if room == rm_initial exit;
 if start_game { speed_ball = 2; start_game = false; }
 speed = speed_ball;
 

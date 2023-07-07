@@ -19,10 +19,15 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_collisor","order":2,"path":"sprites/spr_collisor/spr_collisor.yy",},
+    {"name":"spr_button","order":3,"path":"sprites/spr_button/spr_button.yy",},
+    {"name":"obj_button_play_game","order":1,"path":"objects/obj_button_play_game/obj_button_play_game.yy",},
     {"name":"obj_goal","order":1,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"obj_button_two_players","order":2,"path":"objects/obj_button_two_players/obj_button_two_players.yy",},
+    {"name":"snd_background","order":2,"path":"sounds/snd_background/snd_background.yy",},
     {"name":"obj_player_two","order":2,"path":"objects/obj_player_two/obj_player_two.yy",},
     {"name":"snd_boing","order":1,"path":"sounds/snd_boing/snd_boing.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
   ],
 }
