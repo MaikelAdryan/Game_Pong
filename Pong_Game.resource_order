@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
     {"name":"Anotações","order":12,"path":"folders/Anotações.yy",},
-    {"name":"Caminhos","order":6,"path":"folders/Caminhos.yy",},
-    {"name":"Conjuntos de tiles","order":5,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Caminhos","order":7,"path":"folders/Caminhos.yy",},
+    {"name":"Conjuntos de tiles","order":6,"path":"folders/Conjuntos de tiles.yy",},
     {"name":"Curvas da animação","order":11,"path":"folders/Curvas da animação.yy",},
     {"name":"Extensões","order":13,"path":"folders/Extensões.yy",},
-    {"name":"Fontes","order":8,"path":"folders/Fontes.yy",},
+    {"name":"Fontes","order":5,"path":"folders/Fontes.yy",},
     {"name":"Linhas do tempo","order":9,"path":"folders/Linhas do tempo.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
     {"name":"collisor and goal","order":2,"path":"folders/Objects/collisor and goal.yy",},
@@ -13,7 +13,7 @@
     {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
     {"name":"Sequências","order":10,"path":"folders/Sequências.yy",},
-    {"name":"Shaders","order":7,"path":"folders/Shaders.yy",},
+    {"name":"Shaders","order":8,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
   ],
