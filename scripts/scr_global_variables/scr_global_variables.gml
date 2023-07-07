@@ -3,3 +3,4 @@
 global.two_players = false;
 global.number_goals_player_one = 0;
 global.number_goals_player_two = 0;
+global.number_for_win_game = 1;
