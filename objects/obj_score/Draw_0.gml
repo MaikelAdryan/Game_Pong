@@ -1,4 +1,7 @@
 /// @description Desenhando o placar
+//
+
+if room == rm_initial exit;
 // setando alinhamentos e cor da fonte
 draw_set_color(c_black);
 draw_set_valign(fa_middle);
